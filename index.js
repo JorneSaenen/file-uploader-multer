@@ -1,7 +1,7 @@
 import express from 'express';
 import multer from 'multer';
 const app = express();
-const path = require('path');
+import path from 'path';
 
 //
 app.set('view engine', 'ejs');
