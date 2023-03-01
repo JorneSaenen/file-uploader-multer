@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.holder {
+  text-align: center;
+  margin-top: 60px;
+}
+
+img, video, audio {
+  width: 300px;
+  margin-right: 5px;
+}
